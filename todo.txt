@@ -1,5 +1,5 @@
 1. 4 commands of git in .md file
-2. Nano review reply
+	2. Nano review reply
 3. branch new careers section
 4. learn more git (youtube)
 5. learn more smart contract (git)
