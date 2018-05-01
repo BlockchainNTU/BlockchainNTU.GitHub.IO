@@ -14,7 +14,7 @@ X. SPIRIT website template
 4. vulnerability report@suan hai
 5. blockchain ntu domain@suan hai
 6. ask sourav for website content update
-7. update hackathon proposal
-8. email frankie hackathon proposal
-9. ask frankie licensing agreement clauses
+	7. update hackathon proposal
+	8. email frankie hackathon proposal
+	9. ask frankie licensing agreement clauses
 X. prepare agenda for Wed meeting
