@@ -1,22 +1,24 @@
 	1. 4 commands of git in .md file
 	2. Nano review reply
-3. branch new careers section
+	3. branch new careers section
 4. learn more git (youtube)
 5. learn more smart contract (git)
-6. branch new contact us section 
+	6. branch new contact us section 
 7. linkedin update
 8. personal website update (temp)
 9. look for good personal site template
 X. SPIRIT website template
 1. convert pdf & ppt content in jpg
-2. put in spirit website
+2. put images in SPIRIT website
 3. poster for recruitment
 4. vulnerability report@suan hai
 5. blockchain ntu domain@suan hai
-6. ask sourav for website content update
+6. ask sourav da for website content update
 	7. update hackathon proposal
 	8. email frankie hackathon proposal
 	9. ask frankie licensing agreement clauses
 X. prepare agenda for Wed meeting
 1. see gym program website & videos
-2. subscribe habits book from library
+2. issue habits book from library
+3. CV update (new job, new pubs, etc)
+	4. email website templates to soumya
