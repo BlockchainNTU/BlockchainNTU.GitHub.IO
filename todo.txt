@@ -6,9 +6,9 @@
 	6. branch new contact us section 
 7. linkedin update
 8. personal website update (temp)
-9. look for good personal site template
+	9. look for good personal site template
 X. SPIRIT website template
-1. convert pdf & ppt content in jpg
+	1. convert pdf & ppt content in jpg
 2. put images in SPIRIT website
 3. poster for recruitment
 4. vulnerability report@suan hai
