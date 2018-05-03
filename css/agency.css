@@ -611,6 +611,22 @@ header.masthead .intro-text .intro-heading-smaller {
   margin-top: 0;
 }
 
+section#hackathon {
+  background-color: #212529;
+  background-image: url("../img/hackathon-bg2.png");
+  background-size: 2500px, 1166px, auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+section#hackathon .section-heading {
+  color: #fff;
+}
+
+section#hackathon .section-subheading {
+  color: #fff;
+}
+
 section#contact {
   background-color: #212529;
   background-image: url("../img/map-image.png");
