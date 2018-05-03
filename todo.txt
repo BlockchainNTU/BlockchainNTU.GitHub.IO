@@ -2,10 +2,10 @@
 	2. Nano review reply
 	3. branch new careers section
 4. learn more git (youtube)
-5. learn more smart contract (git)
+	5. learn more smart contract (git)
 	6. branch new contact us section 
 7. linkedin update
-8. personal website update (temp)
+	8. personal website update (temp)
 	9. look for good personal site template
 	X. SPIRIT website template (mayank)
 	1. convert pdf & ppt content in jpg
