@@ -1,0 +1,41 @@
+# Site settings
+baseURL = "http://blockchainntu.github.io"
+languageCode = "en-us"
+title = "TheBlockchainSPIRIT Hackathon"
+theme = "hugo-simpledoc-theme"
+publishDir = "docs"
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  smartlists = true
+  extensions = ["hardLineBreak"]
+
+# Top menu
+[[menu.top]]
+    name = "Join our Slack workspace to interact with other participants and share knowhow!"
+    weight = 10
+    url = "http://bit.ly/TBS-hackathon-slack"
+
+[[menu.top]]
+    name = "Join our Telegram channel for timely updates about TheBlockchainSPIRIT Hackathon!"
+    weight = 20
+    url = "http://t.me/tbshackathon"
+
+# Site parameters
+[params]
+
+    # Meta
+    description = "A Blockchain Hackathon in NTU Singapore organised and brought to you by TheBlockchainSPIRIT, NTUitive, IOST, NEM, Coinhako, i-Sprint, Morpheus Labs, Women In Asia, Nanyang Blockchain Association, Pitchspot, NTU World of Wisdom and NTU Graduate Students Association."
+    author = "Sumanta Bose"
+    keywords = "blockchain, hackathon, NTU, singapore"
+
+    # Header
+    # If not set, site title and meta description will be shown.
+    # You may use markdown here
+    headerTitle = "TheBlockchainSPIRIT Hackathon 2018"
+    headerDescription = "#blockchain #hackathon #community #coding #competition #innovation #pizza #beer"
+
+    # Back-to-top button name
+    bttButton = "Go to top"

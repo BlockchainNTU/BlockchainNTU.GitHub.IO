@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TheBlockchainSPIRIT Hackathon</title>
+    <link>http://blockchainntu.github.io/</link>
+    <description>Recent content on TheBlockchainSPIRIT Hackathon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jun 2018 21:33:54 +0800</lastBuildDate>
+    
+	<atom:link href="http://blockchainntu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://blockchainntu.github.io/welcome/</link>
+      <pubDate>Sun, 10 Jun 2018 21:33:54 +0800</pubDate>
+      
+      <guid>http://blockchainntu.github.io/welcome/</guid>
+      <description>Dear Hackathon Participants,
+Welcome to TheBlockchainSPIRIT (TBS) Hackathon to be held on 29-30 June in NTU Singapore. For more info you can see http://bit.ly/TBS-hackathon-info
+In TBS Hackathon, you are free to choose any blockchain platform of your liking for your project development.
+We will, however, provide hands-on training of three major blockchain platforms:
+1. NEM
+2. Hyperledger
+3. Ethereum
+On the event day you can attend workshops on all the above platforms and choose any one to work on.</description>
+    </item>
+    
+    <item>
+      <title>NEM</title>
+      <link>http://blockchainntu.github.io/nem/</link>
+      <pubDate>Sun, 10 Jun 2018 21:36:00 +0800</pubDate>
+      
+      <guid>http://blockchainntu.github.io/nem/</guid>
+      <description>NEM’s blockchain platform is designed and coded from the ground up for scale and speed. NEM’s permissioned private blockchain delivers industry-leading transaction rates for internal ledgers. And its revolutionary consensus mechanism and the Supernode program ensure that NEM’s open, public blockchain can grow without ever compromising throughput or stability.
+You can go through the info here, and try to install the pre-requisites from the links given below, before joinin the hackathon.</description>
+    </item>
+    
+    <item>
+      <title>Hyperledger</title>
+      <link>http://blockchainntu.github.io/hyperledger/</link>
+      <pubDate>Sun, 10 Jun 2018 21:35:23 +0800</pubDate>
+      
+      <guid>http://blockchainntu.github.io/hyperledger/</guid>
+      <description>Hyperledger is a blockchain platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of resiliency, confidentiality, flexibility and scalability.
+You can go through the info here, and try to install the pre-requisites from the links given below, before joinin the hackathon. This will save you time during the workshop and give you a head-start.
+ Hyperledger Fabric Info:
+https://hyperledger-fabric.readthedocs.io/en/release-1.1/
+ Hyperledger Fabric Pre-Requisites:
+https://hyperledger-fabric.readthedocs.io/en/release-1.1/prereqs.html
+ Hyperledger Fabric Installation:</description>
+    </item>
+    
+    <item>
+      <title>Ethereum</title>
+      <link>http://blockchainntu.github.io/ethereum/</link>
+      <pubDate>Sun, 10 Jun 2018 21:36:43 +0800</pubDate>
+      
+      <guid>http://blockchainntu.github.io/ethereum/</guid>
+      <description>Ethereum is an open blockchain platform that lets anyone build and use decentralized applications that run on blockchain technology. It&amp;rsquo;s adaptable, flexible and easy to create new applications.
+You can go through the info here, and try to install the pre-requisites from the links given below, before joinin the hackathon. This will save you time during the workshop and give you a head-start.
+ Ethereum Info:
+http://www.ethdocs.org/en/latest/
+ Node.js and Npm</description>
+    </item>
+    
+    <item>
+      <title>FAQs</title>
+      <link>http://blockchainntu.github.io/faq/</link>
+      <pubDate>Sun, 10 Jun 2018 21:36:17 +0800</pubDate>
+      
+      <guid>http://blockchainntu.github.io/faq/</guid>
+      <description>Q : When should participants report for the event?
+A : Registration will start at 8:30 AM on Friday, 29 June.
+Do come by 9:00 AM! That&amp;rsquo;s when the event begins :)
+In case you&amp;rsquo;re late, don&amp;rsquo;t hold back &amp;ndash; you can join later too.
+Q : How do you get timely updates on the hackathon?
+A : Join our Slack workspace: http://bit.ly/TBS-hackathon-slack
+Join our Telegram channel: http://t.me/tbshackathon
+Q : What is the format of the event?</description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>http://blockchainntu.github.io/venue/</link>
+      <pubDate>Sun, 10 Jun 2018 21:36:05 +0800</pubDate>
+      
+      <guid>http://blockchainntu.github.io/venue/</guid>
+      <description>We kick-off at 9:00 AM on Friday, 29 June, with the technical sessions.
+Venue: Lecture Theatre 19A (LT19A-01-01) &amp;ndash; it&amp;rsquo;s across SCSE, Level 1
+NTU Maps: http://maps.ntu.edu.sg/maps#q:lt%2019a
+Google Maps and Directions: https://goo.gl/maps/8oiHam8ekTQ2
+We relocate to NTUitive for lunch and hackathon at 12:30 PM on Friday
+Venue: NTUitive, New Innovation Centre, 71 Nanyang Drive, NTU, Singapore 638075
+NTU Maps: http://maps.ntu.edu.sg/maps#q:new%20innovation%20centre
+Google Maps and Directions: https://goo.gl/maps/xHkp8SMa5LQ2</description>
+    </item>
+    
+    <item>
+      <title>Helpline</title>
+      <link>http://blockchainntu.github.io/helpline/</link>
+      <pubDate>Sun, 10 Jun 2018 21:36:31 +0800</pubDate>
+      
+      <guid>http://blockchainntu.github.io/helpline/</guid>
+      <description>In case of any query/feedback, call any of us:
+ +65 98612535 (Sumanta)
+ +65 98985705 (Sourav)
+ +65 83163536 (Mayank)
+ +65 91449406 (Vivian)
+  </description>
+    </item>
+    
+  </channel>
+</rss>
