@@ -14,6 +14,15 @@ weight: 50
 **A** : Join our Slack workspace: http://bit.ly/TBS-hackathon-slack
 		Join our Telegram channel: http://t.me/tbshackathon
 
+**Q** : What is the duration of the event?
+**A** : From 9:00 AM, 29 June to 5:00 PM, 30 June.
+
+**Q** : Do you need to pay for the event or the workshops?
+**A** : No, the event is free.
+
+**Q** : Do you need to stay for the entire duration of the event, or can you leave at night?
+**A** : You are free to stay back or leave. The objective is to participate in the hackathon and make something meaningful. However we would recommend to stay back and be part of the blockchain hathathon movement, and co-learn with other participants.
+
 **Q** : What is the format of the event?
 **A** : We will try to adhere to the following schedule, tentatively
 Day 1, 29 June -- 09:00 to 12:30 -- Technical Session (Workshops)
