@@ -5,7 +5,7 @@ anchor: "helpline"
 weight: 70
 ---
 
-In case of any query/feedback, call any of us:
+In case of any query/feedback, feel free to call any of us:
 
 * [+65 98612535](tel:+6598612535) (Sumanta)
 * [+65 98985705](tel:+6598985705) (Sourav)
