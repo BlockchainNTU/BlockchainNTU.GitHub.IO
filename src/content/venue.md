@@ -6,7 +6,7 @@ weight: 60
 ---
 
 We kick-off at 9:00 AM on Friday, 29 June, with the technical sessions.
-Venue: Lecture Theatre 19A (LT19A-01-01) -- it's across SCSE, Level 1
+Venue: Lecture Theatre 19A (LT19A-01-01) -- it's in the North Spine @ NTU, Level 1
 NTU Maps: http://maps.ntu.edu.sg/maps#q:lt%2019a
 Google Maps and Directions: https://goo.gl/maps/8oiHam8ekTQ2
 
