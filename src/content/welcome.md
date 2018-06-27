@@ -2,7 +2,7 @@
 title: "Welcome"
 date: 2018-06-10T21:33:54+08:00
 anchor: "welcome"
-weight: 10
+weight: 100
 ---
 
 Dear Hackathon Participants,
