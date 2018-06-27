@@ -83,6 +83,8 @@ A : We have set up a Slack workspace for the event. Start interacting!
 **A** : Not mandatory, but the following preparation/installations may help.
      Install these to have a head-start: https://blockchainntu.github.io/ (You're on this page!)
 
-**Q** : Who is behind this event?
+**Q** : Who is organising this event?
 **A** : This Blockchain Hackathon in NTU Singapore is organised and brought to you by TheBlockchainSPIRIT, NTUitive, IOST, NEM, Coinhako, i-Sprint, Morpheus Labs, Women In Asia, Nanyang Blockchain Association, Pitchspot, NTU World of Wisdom and NTU Graduate Students Association.
 
+
+![](http://scse.ntu.edu.sg/SPIRIT/updates/Documents/_ATK-zWA.png "TheBlockchainSPIRIT Hackathon")
