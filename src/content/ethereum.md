@@ -2,7 +2,7 @@
 title: "Ethereum"
 date: 2018-06-10T21:36:43+08:00
 anchor: "ethereum"
-weight: 40
+weight: 14
 ---
 
 Ethereum is an open blockchain platform that lets anyone build and use decentralized applications that run on blockchain technology. It's adaptable, flexible and easy to create new applications.

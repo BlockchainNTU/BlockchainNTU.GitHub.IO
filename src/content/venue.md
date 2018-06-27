@@ -2,7 +2,7 @@
 title: "Venue"
 date: 2018-06-10T21:36:05+08:00
 anchor: "venue"
-weight: 70
+weight: 12
 ---
 
 We kick-off at 9:00 AM on Friday, 29 June, with the technical sessions.

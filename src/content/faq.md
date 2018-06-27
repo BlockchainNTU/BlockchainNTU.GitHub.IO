@@ -2,7 +2,7 @@
 title: "FAQs"
 date: 2018-06-10T21:36:17+08:00
 anchor: "faqs"
-weight: 50
+weight: 17
 ---
 
 **Q** : When should participants report for the event?

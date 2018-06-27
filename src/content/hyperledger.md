@@ -2,7 +2,7 @@
 title: "Hyperledger"
 date: 2018-06-10T21:35:23+08:00
 anchor: "hyperledger"
-weight: 30
+weight: 15
 ---
 
 Hyperledger is a blockchain platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of resiliency, confidentiality, flexibility and scalability.
