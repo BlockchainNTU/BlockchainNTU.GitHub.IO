@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "http://blockchainntu.github.io"
 languageCode = "en-us"
-title = "TheBlockchainSPIRIT Hackathon"
+title = "TheBlockchainSPIRIT Hackathon 2018"
 theme = "hugo-simpledoc-theme"
 publishDir = "docs"
 

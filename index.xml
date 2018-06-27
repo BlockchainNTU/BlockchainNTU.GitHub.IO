@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TheBlockchainSPIRIT Hackathon</title>
+    <title>TheBlockchainSPIRIT Hackathon 2018</title>
     <link>http://blockchainntu.github.io/</link>
-    <description>Recent content on TheBlockchainSPIRIT Hackathon</description>
+    <description>Recent content on TheBlockchainSPIRIT Hackathon 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Jun 2018 21:33:54 +0800</lastBuildDate>
@@ -102,7 +102,11 @@ https://hyperledger-fabric.readthedocs.io/en/release-1.1/prereqs.html
       
       <guid>http://blockchainntu.github.io/iost/</guid>
       <description>IOST is a scalable, secure and decentralized blockchain App platform. Its high TPS, scalable and secure infrastructure lets developers create, innovate and build their next big ideas.
-There will be an IOST demo in the hackathon.</description>
+There will be an IOST demo in the hackathon.
+IOST Info:
+https://iost.io
+IOST Whitepaper:
+https://github.com/iost-official/Documents/blob/master/Technical_White_Paper/EN/Tech_white_paper_EN.md</description>
     </item>
     
     <item>
