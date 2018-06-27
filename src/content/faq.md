@@ -65,6 +65,7 @@ A : We have set up a Slack workspace for the event. Start interacting!
      Jacket, Eye-patch, Headphones etc. (for comfort)
      Toothbrush, Toothpaste, Deodorant etc. (you know)
      Any personal F&B items, for you and your team :)
+     Note: Be comfortable, in sports shoes, pajamas, etc!
 
 **Q** : Where should the participants report?
 **A** : Lecture Theatre 19A if you come before lunch on Friday
