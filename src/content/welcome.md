@@ -18,6 +18,6 @@ We will, however, provide hands-on training of three major blockchain platforms:
  
 On the event day you can attend workshops on all the above platforms and choose any one to work on. However, to get a head-start before the hackathon, you can read some preliminary info about these platforms and do some initial platform-specific installations, as detailed below.
  
-In case you have no prior experience with Blockchain or these platforms, you can skip these steps and join us directly at the hackathon. Our experts will guide you in the workshop and help you develop your first Blockchain project!
+In case you have no prior experience with Blockchain or these platforms, you can skip these installation steps. But do join us for the workshops at the begining of the event ([see event agenda](#agenda)) to learn from the basics. Our experts will guide you in the workshop and help you develop your first Blockchain project!
 
 ![](https://cdn-images-1.medium.com/max/1600/1*aM1KkhdoJH503iWID_WJ8A.png "Hackathon")
