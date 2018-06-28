@@ -53,13 +53,18 @@ Google Maps and Directions: https://goo.gl/maps/xHkp8SMa5LQ2</description>
     </item>
     
     <item>
-      <title>NEM</title>
-      <link>http://blockchainntu.github.io/nem/</link>
-      <pubDate>Sun, 10 Jun 2018 21:36:00 +0800</pubDate>
+      <title>Hyperledger</title>
+      <link>http://blockchainntu.github.io/hyperledger/</link>
+      <pubDate>Sun, 10 Jun 2018 21:35:23 +0800</pubDate>
       
-      <guid>http://blockchainntu.github.io/nem/</guid>
-      <description>NEM’s blockchain platform is designed and coded from the ground up for scale and speed. NEM’s permissioned private blockchain delivers industry-leading transaction rates for internal ledgers. And its revolutionary consensus mechanism and the Supernode program ensure that NEM’s open, public blockchain can grow without ever compromising throughput or stability.
-You can go through the info here, and try to install the pre-requisites from the links given below, before joinin the hackathon.</description>
+      <guid>http://blockchainntu.github.io/hyperledger/</guid>
+      <description>Hyperledger is a blockchain platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of resiliency, confidentiality, flexibility and scalability.
+You can go through the info here, and try to install the pre-requisites from the links given below, before joinin the hackathon. This will save you time during the workshop and give you a head-start.
+ Hyperledger Fabric Info:
+https://hyperledger-fabric.readthedocs.io/en/release-1.1/
+ Hyperledger Fabric Pre-Requisites:
+https://hyperledger-fabric.readthedocs.io/en/release-1.1/prereqs.html
+ Hyperledger Fabric Installation:</description>
     </item>
     
     <item>
@@ -76,18 +81,13 @@ http://www.ethdocs.org/en/latest/
     </item>
     
     <item>
-      <title>Hyperledger</title>
-      <link>http://blockchainntu.github.io/hyperledger/</link>
-      <pubDate>Sun, 10 Jun 2018 21:35:23 +0800</pubDate>
+      <title>NEM</title>
+      <link>http://blockchainntu.github.io/nem/</link>
+      <pubDate>Sun, 10 Jun 2018 21:36:00 +0800</pubDate>
       
-      <guid>http://blockchainntu.github.io/hyperledger/</guid>
-      <description>Hyperledger is a blockchain platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of resiliency, confidentiality, flexibility and scalability.
-You can go through the info here, and try to install the pre-requisites from the links given below, before joinin the hackathon. This will save you time during the workshop and give you a head-start.
- Hyperledger Fabric Info:
-https://hyperledger-fabric.readthedocs.io/en/release-1.1/
- Hyperledger Fabric Pre-Requisites:
-https://hyperledger-fabric.readthedocs.io/en/release-1.1/prereqs.html
- Hyperledger Fabric Installation:</description>
+      <guid>http://blockchainntu.github.io/nem/</guid>
+      <description>NEM’s blockchain platform is designed and coded from the ground up for scale and speed. NEM’s permissioned private blockchain delivers industry-leading transaction rates for internal ledgers. And its revolutionary consensus mechanism and the Supernode program ensure that NEM’s open, public blockchain can grow without ever compromising throughput or stability.
+You can go through the info here, and try to install the pre-requisites from the links given below, before joinin the hackathon.</description>
     </item>
     
     <item>
