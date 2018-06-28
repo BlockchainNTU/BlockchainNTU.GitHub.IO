@@ -11,3 +11,5 @@ In case of any query/feedback, feel free to call any of us:
 * [+65 98985705](tel:+6598985705) (Sourav)
 * [+65 83163536](tel:+6583163536) (Mayank)
 * [+65 91449406](tel:+6591449406) (Vivian)
+
+And don't forget to join our [Slack workspace](http://bit.ly/TBS-hackathon-slack) and our [Telegram channel](http://t.me/tbshackathon).

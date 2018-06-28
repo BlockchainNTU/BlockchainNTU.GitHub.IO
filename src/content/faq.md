@@ -23,21 +23,23 @@ weight: 170
 **Q** : Do you need to stay for the entire duration of the event, or can you leave at night?
 **A** : You are free to stay back or leave. The objective is to participate in the hackathon and make something meaningful. However we would recommend to stay back and be part of the blockchain hathathon movement, and co-learn with other participants.
 
-**Q** : What is the format of the event?
-**A** : We will try to adhere to the following schedule, tentatively
-Day 1, 29 June -- 09:00 to 12:30 -- Technical Session (Workshops)
-Day 1, 29 June -- 12:30 to 15:00 -- Lunch, Networking (form teams)
-Day 1, 29 June -- after lunch, start to code as soon as you are ready
-Day 1, 29 June -- overnight, hack.. hack.. hackathon! Beer & pizza!
-Day 2, 30 June -- 10:00 to 11:00 -- Information about Submissions
-Day 2, 30 June -- 15:00 to 16:00 -- Judges interact and shortlist
-Day 2, 30 June -- 16:00 to 17:30 -- Project (shortlisted) Presentations
-Day 2, 30 June -- 17:30 to 18:00 -- Prize Distribution and wrap-up     
+**Q** : What is the agenda/schedule/format of the event?
+**A** : [Click here](http://localhost:1313/#agenda) to see the event agenda/schedule/format.   
+
+**Q** : What are the hackathon challenge categories?
+**A** : Three categories as follows.
+        Think of a problem statement in any of the following.
+        Use blockchain to solve it.
+        ![](challenge.png "Challenge Categories")
 
 **Q** : What are the prizes for the winners?
-**A** : Four Parameters -- Four Awards -- Four Winners -- SGD 1500 each
+**A** : Four Parameters -- Four Awards -- Four Winners -- SGD 1,500 each
      (Most Innovative, Most Enterprising, Most Creative, Most Impactful)
-     Call for Start-Up Grants amounting up to SGD 10000 from NTUitive
+     Call for Start-Up Grants amounting up to SGD 10,000 from NTUitive
+     ![](awards-opportunities.png "Awards and Opportunities")
+
+**Q** : What is the judging criteria?
+**A** : Exactly based on the four awards, described above.
 
 **Q** : What will be provided to the participants?
 **A** : Desks, Chairs, Beanbags, Power Source, WiFi, Electric Kettle, etc.
@@ -68,8 +70,8 @@ A : We have set up a Slack workspace for the event. Start interacting!
      Note: Be comfortable, in sports shoes, pajamas, etc!
 
 **Q** : Where should the participants report?
-**A** : Lecture Theatre 19A if you come before lunch on Friday
-     NTUitive, New Innovation Centre, if you come afterwards
+**A** : Lecture Theatre 19A if you come before lunch on Friday.
+     Else, NTUitive, New Innovation Centre, if you come afterwards.
      See [directions to venue](#venue) below for help. 
 
 **Q** : How do 'remotely participating' candidates engage it the hackaton?
@@ -83,8 +85,15 @@ A : We have set up a Slack workspace for the event. Start interacting!
 **A** : Not mandatory, but the following preparation/installations may help.
      Install these to have a head-start: https://blockchainntu.github.io/ (You're on this page!)
 
+**Q** : What blockchain platforms will the workshops be on?
+**A** : Three leading platforms: [Hyperledger](https://www.hyperledger.org), [Ethereum](https://ethereum.org) and [NEM](http://nem.io).
+
+**Q** : Can I choose to work on a platform of your own choice?
+**A** : Absolutely yes! And teach us about your favourite platform :)
+
 **Q** : Who is organising this event?
 **A** : This Blockchain Hackathon in NTU Singapore is organised and brought to you by TheBlockchainSPIRIT, NTUitive, IOST, NEM, Coinhako, i-Sprint, Morpheus Labs, Women In Asia, Nanyang Blockchain Association, Pitchspot, NTU World of Wisdom and NTU Graduate Students Association.
 
 
-![](http://scse.ntu.edu.sg/SPIRIT/updates/Documents/_ATK-zWA.png "TheBlockchainSPIRIT Hackathon")
+<!-- ![](http://scse.ntu.edu.sg/SPIRIT/updates/Documents/_ATK-zWA.png "TheBlockchainSPIRIT Hackathon") -->
+![](poster.png "TheBlockchainSPIRIT Hackathon")
