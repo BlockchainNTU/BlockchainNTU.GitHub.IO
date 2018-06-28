@@ -75,7 +75,7 @@ A : We have set up a Slack workspace for the event. Start interacting!
      See [directions to venue](#venue) for help. 
 
 **Q** : How do 'remotely participating' candidates engage it the hackaton?
-**A** : Keep following [this page](#), and https://github.com/BlockchainNTU/tbs-hackathon-2018
+**A** : Keep following [this page](#), our [Slack workspace](http://bit.ly/TBS-hackathon-slack) and [Telegram channel](http://t.me/tbshackathon).
 		You'll be updated you with the workshop materials.
 		You can remotely develop projects for the hackathon.
 		Submission details will be shared later.
