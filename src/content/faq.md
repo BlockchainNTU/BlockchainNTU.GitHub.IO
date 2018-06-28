@@ -72,7 +72,7 @@ A : We have set up a Slack workspace for the event. Start interacting!
 **Q** : Where should the participants report?
 **A** : Lecture Theatre 19A if you come before lunch on Friday.
      Else, NTUitive, New Innovation Centre, if you come afterwards.
-     See [directions to venue](#venue) below for help. 
+     See [directions to venue](#venue) for help. 
 
 **Q** : How do 'remotely participating' candidates engage it the hackaton?
 **A** : Keep following [this page](#), and https://github.com/BlockchainNTU/tbs-hackathon-2018
